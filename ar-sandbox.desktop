@@ -2,5 +2,6 @@
 Type=Application
 Terminal=true
 Name=AR Sandbox
-Icon=/usr/share/UC-Davis-AR-Sandbox-Configuration-Menu/icon/ARLogo128x128.png
-Exec=/usr/share/UC-Davis-AR-Sandbox-Configuration-Menu/startAugmentedSandbox.sh
+Icon=/opt/UC-Davis-AR-Sandbox-Configuration-Menu/icon/ARLogo128x128.png
+Exec=/opt/UC-Davis-AR-Sandbox-Configuration-Menu/startAugmentedSandbox.sh
+Path=/opt/UC-Davis-AR-Sandbox-Configuration-Menu
