@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
 Terminal=true
-Name=ar-sandbox
+Name=AR Sandbox
 Icon=~/UC-Davis-AR-Sandbox-Configuration-Menu/icon/ARLogo128x128.png
 Exec=~/UC-Davis-AR-Sandbox-Configuration-Menu/startAugmentedSandbox.sh
