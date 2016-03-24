@@ -1,5 +1,6 @@
 [Desktop Entry]
 Type=Application
+Version=1.0.0
 Terminal=true
 Name=AR Sandbox
 Icon=/opt/UC-Davis-AR-Sandbox-Configuration-Menu/icon/ARLogo128x128.png
