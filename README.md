@@ -19,5 +19,7 @@ Install Instructions:
 
 
 
+Full Instructions on loading the augmented reality sandbox software and plugin: https://rivercitylabs.org/augmented-reality-sandbox-setup-configuration-menu-add/
+
 Member of River City Labs, rivercitylabs.org
   
