@@ -1,6 +1,6 @@
 #!/bin/sh
 # 
-# 
+# Author: Malamaker (J.Malavolti) Created: 2016-03-23 Last Updated: 2016-03-24
 #
 
 echo "Welcome to the Augmented Reality Sandbox Configuration and Start Menu"
